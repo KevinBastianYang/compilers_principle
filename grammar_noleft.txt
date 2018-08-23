@@ -1,0 +1,8 @@
+E->TD
+D->+TD
+D->n
+T->FS
+S->*FS
+S->n
+F->(E)
+F->d

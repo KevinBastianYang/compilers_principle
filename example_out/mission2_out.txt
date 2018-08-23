@@ -1,0 +1,43 @@
+-1 1 1
+----------------------------------------
+matrix details:
+position x	0
+position y
+0
+--------
+non terminals
+Z
+--------
+terminals
+a
+--------
+production
+NULL
+----------------------------------------
+matrix details:
+position x	0
+position y
+1
+--------
+non terminals
+Z
+--------
+terminals
+A
+--------
+production
+Z->n
+----------------------------------------
+matrix details:
+position x	0
+position y
+2
+--------
+non terminals
+Z
+--------
+terminals
+$
+--------
+production
+Z->n
