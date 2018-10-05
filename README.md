@@ -1,3 +1,3 @@
 Compiler Principle Project
 ===============
-Construct a SLR
+To construct a LL(1) Parsing table with or without the direct left recursion
