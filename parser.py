@@ -215,4 +215,5 @@ def main():
 			else:
 				file3.write("NULL\n")
 	file3.close()
-main()
+if __name__ == '__main__':
+	main()
