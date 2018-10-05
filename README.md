@@ -15,7 +15,7 @@ The output of first mission will be created in mission1_out.txt, the output of s
 
 Run
 ----------
-````python
+````shell
 python ./parser.py
 ````
 
